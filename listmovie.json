@@ -3313,5 +3313,19 @@
        },
        "posterUrl":"https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
        "isSlide":false
-    }
+    },
+    {
+        "id":290,
+        "movieImgLink":"https://media.fushaar.com/media/2020/09/aKx1ARwG55zZ0GpRvU2WrGrCG9o-329x495.jpg",
+        "movieLink":"https://bg.stream.fushaar.com/movie/32225/32225.mp4",
+        "movieName":"Mulan",
+        "movieYear":"2020",
+        "movieStory":"تدور أحداث الفيلم حول الفتاة الصينية الشابة مولان التي تطمح لما هو أكثر من حياة عادية وزيجة تقليدية، وذلك بالتنكر في صورة وزي محارب، من أجل إنقاذ والدها في مولان Mulan        ",
+        "movieType":{
+           "id":"Action"
+        },
+        "posterUrl":"https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "isSlide":false
+     }
+
  ]

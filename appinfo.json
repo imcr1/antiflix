@@ -1,7 +1,8 @@
 {
     "version" : "2.0",
-    "newDownloadLinkAndroid" : "",
-    "newDownloadLinkWindows" : "",
+    "newDownloadLinkAndroid" : "https://drive.google.com/drive/folders/1KNb52HJwbUMhFMZesgZloxf-hxCJiKnf?usp=sharing",
+    "newDownloadLinkWindows" : "https://drive.google.com/drive/folders/1boQ079UTBzbdyEdhDObVnSdVbHMAvnTe?usp=sharing",
     "apiRootLink" : "",
-    "apiPath" : ""
+    "apiPath" : "",
+    "updateInfo" : "- This is A new Update Log\nHi Hello From verison 2"
 }

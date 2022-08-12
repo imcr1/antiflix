@@ -9,7 +9,7 @@
       "year": "2020",
       "rate": "8.0",
       "type": [],
-      "movieinfo" : {"ytTrailer" : "dQw4w9WgXcQ"}
+      "movieinfo" : {"trailer" : "dQw4w9WgXcQ"}
       
    },
    {
@@ -22,7 +22,7 @@
       "year": "2014",
       "rate": "8.9",
       "type": [],
-      "movieinfo" : {"ytTrailer" : "dQw4w9WgXcQ"}
+      "movieinfo" : {"trailer" : "dQw4w9WgXcQ"}
    },
    {
       "id": 10612,
@@ -34,7 +34,7 @@
       "year": "2016",
       "rate": "8.9",
       "type": [],
-      "movieinfo" : {"ytTrailer" : "dQw4w9WgXcQ"}
+      "movieinfo" : {"trailer" : "dQw4w9WgXcQ"}
    },
    {
       "id": 21126,
@@ -46,7 +46,7 @@
       "year": "2018",
       "rate": "8.4",
       "type": [],
-      "movieinfo" : {"ytTrailer" : "dQw4w9WgXcQ"}
+      "movieinfo" : {"trailer" : "dQw4w9WgXcQ"}
    },
    {
       "id": 19251,
@@ -58,6 +58,6 @@
       "year": "2018",
       "rate": "7.6",
       "type": [],
-      "movieinfo" : {"ytTrailer" : "dQw4w9WgXcQ"}
+      "movieinfo" : {"trailer" : "dQw4w9WgXcQ"}
    }
 ]

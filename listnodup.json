@@ -1,6 +1,14 @@
 [
    {
       "movieImgLink":"https://media.fushaar.com/media/2021/11/tR68Qbd0ETPXGDtC6HZtTmliX1G-329x495.jpg",
+      "movieLink":"https://stream.fushaar.link/movie/42775/42775.mp4",
+      "movieName":"naham",
+      "movieYear":"",
+      "movieStory":""
+   },
+
+   {
+      "movieImgLink":"https://media.fushaar.com/media/2021/11/tR68Qbd0ETPXGDtC6HZtTmliX1G-329x495.jpg",
       "movieLink":"https://fly.stream.fushaar.com/movie/39772/39772.mp4",
       "movieName":"Surge",
       "movieYear":"2020",
